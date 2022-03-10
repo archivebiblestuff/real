@@ -1,11 +1,9 @@
 ---
 ---
 // lol
-{% if site.darkmode %
-}
+{% if site.darkmode %}
 @import 'darkmode';
-{% endif %
-}
+{% endif %}
 
 // Breakpoints
 $large-breakpoint: 64em !default;
@@ -47,12 +45,9 @@ $hr-border-color: #eff0f1 !default;
     background-repeat: no-repeat;
     background-position: center center;
 }
-{% endif %
-}
+{% endif %}
 
-{% if site.hide_first_title %
-}
+{% if site.hide_first_title %}
     .main-content h1:first-child { display: none; 
 }
-{% endif %
-}
+{% endif %}
