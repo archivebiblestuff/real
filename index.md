@@ -1,4 +1,5 @@
 ---
+title: IFBased
 layout: default
 ---
 # The Bible Way to Heaven
