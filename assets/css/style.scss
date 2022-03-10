@@ -1,7 +1,8 @@
 ---
 ---
 // lol
-{% if site.darkmode %}
+{% if site.darkmode %
+}
 @import 'darkmode';
 {% endif %}
 
