@@ -4,23 +4,31 @@ title: NIFB Links
 ---
 
 ## FaithFul Word 
-https://www.youtube.com/channel/UCTHjnBAQbLX8r1QRsgPOBDQ
+[Youtube](https://www.youtube.com/channel/UCTHjnBAQbLX8r1QRsgPOBDQ)
+
+[Website](http://www.faithfulwordbaptist.org/)
 
 ## Verity
-https://www.youtube.com/c/VerityBaptistChurch
+[Youtube](https://www.youtube.com/c/VerityBaptistChurch)
+
+[Website](https://veritybaptist.com/)
 
 ## Stedfast 
-https://www.youtube.com/channel/UCXNJ6pOt6KFMnovAvGTzA1Q
+[Youtube](https://www.youtube.com/channel/UCXNJ6pOt6KFMnovAvGTzA1Q)
 
 ## Sure Foundation
-https://www.youtube.com/c/SureFoundationBaptistChurchVancouver
+[Youtube](https://www.youtube.com/c/SureFoundationBaptistChurchVancouver)
+
+[Website](https://www.surefoundationbaptist.com/)
 
 ## First Works
-https://youtube.com/c/FIRSTWORKSBC
+[Youtube](https://youtube.com/c/FIRSTWORKSBC)
+
+[Website](https://www.fwbcla.org/)
 
 ## Love Assembly
-https://youtube.com/channel/UC_LHCeR_aFqi3fDNTKV3fpA
+[Youtube](https://youtube.com/channel/UC_LHCeR_aFqi3fDNTKV3fpA)
 
 ## Mountain
-https://m.youtube.com/c/MountainBaptist
+[Youtube](https://m.youtube.com/c/MountainBaptist)
 
