@@ -47,6 +47,7 @@ $hr-border-color: #eff0f1 !default;
 }
 {% endif %}
 
-{% if site.hide_first_title %}
+{% if site.hide_first_title %
+}
     .main-content h1:first-child { display: none;}
 {% endif %}
