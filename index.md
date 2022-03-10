@@ -1,7 +1,7 @@
 ---
-title: The Bible Way to Heaven
 layout: default
 ---
+# The Bible Way to Heaven
 
 ## 1. Sin
 
