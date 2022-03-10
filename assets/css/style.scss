@@ -4,7 +4,8 @@
 {% if site.darkmode %
 }
 @import 'darkmode';
-{% endif %}
+{% endif %
+}
 
 // Breakpoints
 $large-breakpoint: 64em !default;
@@ -32,7 +33,8 @@ $hr-border-color: #eff0f1 !default;
 
 @import 'jekyll-theme-cayman';
 
-{% if site.logo_url %}
+{% if site.logo_url %
+}
 .project-name::before {
     content: " ";
     display: inline-block;
@@ -45,8 +47,11 @@ $hr-border-color: #eff0f1 !default;
     background-repeat: no-repeat;
     background-position: center center;
 }
-{% endif %}
+{% endif %
+}
 
 {% if site.hide_first_title %}
-    .main-content h1:first-child { display: none; }
-{% endif %}
+    .main-content h1:first-child { display: none; 
+}
+{% endif %
+}
