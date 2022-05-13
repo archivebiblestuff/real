@@ -20,6 +20,8 @@ description: Fellowship with other Christians online!
 
 * [Real Baptists Server](https://discord.gg/XqF3Ky2RuP)
 
+* [Fellowship Family](https://discord.gg/2HhUv8BG8v)
+
 ## Other Communicating
 
 Probably none
