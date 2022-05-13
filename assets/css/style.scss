@@ -1,6 +1,6 @@
 ---
 ---
-// lol
+
 {% if site.darkmode %}
 @import 'darkmode';
 {% endif %}
@@ -16,7 +16,7 @@ $header-bg-color-secondary: {{ site.color.gradient_left | default: "#155799" }} 
 
 // Text
 $section-headings-color: {{ site.color.section_title | default: site.color.gradient_right | default: "#159957" }} !default;
-$body-text-color: #70705F !default;
+$body-text-color: #606c71 !default;
 $body-link-color: {{ site.color.link | default: site.color.gradient_left | default: "#1e6bb8" }} !default;
 $blockquote-text-color: #819198 !default;
 
@@ -32,7 +32,6 @@ $hr-border-color: #eff0f1 !default;
 @import 'jekyll-theme-cayman';
 
 {% if site.logo_url %}
-
 .project-name::before {
     content: " ";
     display: inline-block;
@@ -43,13 +42,10 @@ $hr-border-color: #eff0f1 !default;
     background: url("{{site.logo_url}}");
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: center center; }
-
+    background-position: center center;
+}
 {% endif %}
 
-{% if site.hide_first_title %
-}
-    .main-content h1:first-child { display: none;
-}
-{% endif %
-}
+{% if site.hide_first_title %}
+    .main-content h1:first-child { display: none; }
+{% endif %}
