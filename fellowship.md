@@ -1,6 +1,7 @@
 ---
 layout: default
-title: our stuff
+title: Fellowship
+description: Fellowship with other Christians online!
 ---
 
 ## Fellowship in Discord 
