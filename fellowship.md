@@ -6,17 +6,16 @@ description: Fellowship with other Christians online!
 
 ## Fellowship in Discord 
 
-[Based Baptist Server](https://discord.gg/j6eGVADb3H)
+* [Based Baptist Server](https://discord.gg/j6eGVADb3H)
 
-[![Based Baptist Server](https://discord.com/api/guilds/973732017290240031/embed.png?style=banner2)](https://discord.gg/j6eGVADb3H)
+* [Baptist Hub](https://discord.gg/KzqDzaWGdH)
 
-[Baptist Hub](https://discord.gg/KzqDzaWGdH)
+* [Ecclesia](https://discord.gg/V6tdRS5hTG)
 
-[Ecclesia](https://discord.gg/V6tdRS5hTG)
+* [Baptist Clubhouse](https://discord.gg/Yd5sTB598H)
 
-[Baptist Clubhouse](https://discord.gg/Yd5sTB598H)
+* [Saved Bible Reading Club](https://discord.gg/VX9K2Qg9eS)
 
-[Saved Bible Reading Club](https://discord.gg/VX9K2Qg9eS)
+* [Bible Study Server](https://discord.gg/cHqrm2pK)
 
-[Bible Study Server](https://discord.gg/cHqrm2pK)
-
+* [Real Baptists Server](https://discord.gg/XqF3Ky2RuP)
