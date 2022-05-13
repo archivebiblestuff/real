@@ -119,9 +119,3 @@ Check this [pdf file](https://ifbased.github.io/assets/pdf/New%20Believer.pdf) t
 
 God bless you and have a great day.
 
-
-## Good websites to check out:
-
-[GoSoul.Win](https://gosoul.win/)
-
-[GetEternal.Life](https://geteternal.life)
