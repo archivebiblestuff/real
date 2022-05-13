@@ -18,5 +18,5 @@ description: Fellowship with other Christians online!
 
 [Saved Bible Reading Club](https://discord.gg/VX9K2Qg9eS)
 
-
+[Bible Study Server](https://discord.gg/cHqrm2pK)
 
