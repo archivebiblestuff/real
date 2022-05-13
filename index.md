@@ -112,9 +112,16 @@ I'll end this with a prayer. If you say it truly believing every word, you will 
 
 Hey, you meant that, didn’t you. You know the Bible says you’re on your way to Heaven. There’s nothing you can do to lose it. Isn’t that great news? :)
 
-Start reading the Gospel of John, and join this [server](https://discord.gg/CSeuchFqqc)
+Start reading the Gospel of John, and join one of the servers [here](/fellowship), or join all.
 
 Check this [pdf file](https://ifbased.github.io/assets/pdf/New%20Believer.pdf) too.
 
 
 God bless you and have a great day.
+
+
+## Good websites to check out:
+
+[GoSoul.Win](https://gosoul.win/)
+
+[GetEternal.Life](https://geteternal.life)
