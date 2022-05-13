@@ -8,7 +8,7 @@ description: Fellowship with other Christians online!
 
 [Based Baptist Server](https://discord.gg/j6eGVADb3H)
 
-[![Based Baptist Server](https://discord.com/api/guilds/973732017290240031/embed.png?style=banner2)](https://discord.gg/j6eGVADb3H))
+[![Based Baptist Server](https://discord.com/api/guilds/973732017290240031/embed.png?style=banner2)](https://discord.gg/j6eGVADb3H)
 
 [Baptist Hub](https://discord.gg/KzqDzaWGdH)
 
