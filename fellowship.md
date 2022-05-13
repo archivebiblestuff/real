@@ -4,7 +4,7 @@ title: Fellowship
 description: Fellowship with other Christians online!
 ---
 
-## Fellowship in Discord 
+## Discord
 
 * [Based Baptist Server](https://discord.gg/j6eGVADb3H)
 
@@ -19,3 +19,7 @@ description: Fellowship with other Christians online!
 * [Bible Study Server](https://discord.gg/cHqrm2pK)
 
 * [Real Baptists Server](https://discord.gg/XqF3Ky2RuP)
+
+## Other Communicating
+
+Probably none
