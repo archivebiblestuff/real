@@ -12,7 +12,7 @@ Heretical Versions:
 
 # ESV
 
-(KJV) 1 Samuel 13:1 - Saul **reigned** one year; and when he had reigned two years over Israel,
+(KJV) 1 Samuel 13:1 - Saul <span style="color:white">**reigned**</span> one year; and when he had reigned two years over Israel,
 
 (ESV) 1 Samuel 13:1 - Saul <span style="color:red">**lived**</span> for one year and then became king, and when he had reigned for two years over Israel
 
