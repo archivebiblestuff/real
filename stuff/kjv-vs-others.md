@@ -73,7 +73,7 @@ _Following the logic of that rendering, Paul would be instructing us to reject J
 (ESV) 1 Timothy 3:16 - Great indeed, we confess, is the mystery of godliness: **He** was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory.
 
 
-#### Takes away key Trinity verse
+### Takes away key Trinity verse
 (KJV) 1 John 5:7-8 -For there are three that bear record in heaven, **the Father, the Word, and the Holy Ghost: and these three are one.** And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one.
 
 (ESV)1 John 5:7-8- For there are three that testify: the Spirit and the water and the blood; and these three agree.
