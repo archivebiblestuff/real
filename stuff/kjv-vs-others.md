@@ -2,7 +2,13 @@
 layout: default
 title: KJV vs Others
 ---
-
+Heretical Versions:
+* [ESV](#ESV)
+* [NLT](#NLT)
+* [NIV](#NIV)
+* [NKJV](#NKJV)
+* [Others](#others)
+* 
 # ESV
 
 (KJV) 1 Samuel 13:1 - Saul **reigned** one year; and when he had reigned two years over Israel,
@@ -93,3 +99,11 @@ Omits 'Christ is come in the flesh'
 
 (ESV) John 3:15 - that whoever believes in him  have eternal life.
 
+
+# NLT
+
+# NIV
+
+# NKJV
+
+# Others
