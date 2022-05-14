@@ -15,7 +15,7 @@ Heretical Versions:
 (KJV) 1 Samuel 13:1 - Saul **reigned** one year; and when he had reigned two years over Israel,
 
 (ESV) 1 Samuel 13:1 - Saul <span style="color:red">some **lived** text</span> for one year and then became king, and when he had reigned for two years over Israel
----
+
 
 (KJV) Mark 10:24 - And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, **how hard is it for them that trust in riches** to enter into the kingdom of God!
 
