@@ -3,10 +3,10 @@ layout: default
 title: KJV vs Others
 ---
 Heretical Versions:
-* [ESV](#ESV)
-* [NLT](#NLT)
-* [NIV](#NIV)
-* [NKJV](#NKJV)
+* [ESV](#esv)
+* [NLT](#nlt)
+* [NIV](#niv)
+* [NKJV](#nkjv)
 * [Others](#others)
 
 
