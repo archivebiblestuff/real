@@ -54,21 +54,22 @@ Proverbs 11:30 - _The fruit of the righteous is a tree of life; and he that winn
 Mark 16:15 - _And he said unto them, Go ye into all the world, and preach the gospel to
 every creature_
 
-[Bible Way to Heaven](http://youtu.be/WuMTe9l6nzM)  - basic gospel presentation (if you need a reminder)
+* [Bible Way to Heaven](http://youtu.be/WuMTe9l6nzM)  - basic gospel presentation (if you need a reminder)
 
-[Basic Soul Winning Door Demonstration](https://www.youtube.com/watch?v=xTYN57c-niA)
+* [Basic Soul Winning Door Demonstration](https://www.youtube.com/watch?v=xTYN57c-niA)
 
-[Why Should I Become A Soul Winner?](https://www.youtube.com/watch?v=pmJfDU8DQOI)
+* [Why Should I Become A Soul Winner?](https://www.youtube.com/watch?v=pmJfDU8DQOI)
 
-[Soul Winning Seminar](https://youtube.com/playlist?list=PLldzZ8QrGlsYcHCC7ltXH1fN4N-4wn8YU)
+* [Soul Winning Seminar](https://youtube.com/playlist?list=PLldzZ8QrGlsYcHCC7ltXH1fN4N-4wn8YU)
 
-[Soul Winning Tips](https://youtube.com/playlist?list=PLldzZ8QrGlsYcHCC7ltXH1fN4N-4wn8YU)
+* [Soul Winning Tips](https://youtube.com/playlist?list=PLldzZ8QrGlsYcHCC7ltXH1fN4N-4wn8YU)
 
-[Soul Winning Info](https://www.soulwinning.info/)
+* [Soul Winning Info](https://www.soulwinning.info/)
 
-###### Good Soulwinning Websites
-[Soulwinning Instructions](/soulwinning)
-[GoSoul.Win](https://gosoul.win/)
+#### Good Soulwinning Websites
+* [Soulwinning Instructions](/soulwinning)
+
+* [GoSoul.Win](https://gosoul.win/)
 
 
 ## Sermons/Topics to Cover Contents Page 
