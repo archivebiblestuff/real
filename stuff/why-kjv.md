@@ -20,6 +20,8 @@ description: The words of the LORD are pure words: as silver tried in a furnace 
 
 * Heaven and earth shall pass away, but my words shall not pass away.
 
+### Useful links
+
 [New World Order Bible Versions Full Movie](https://youtu.be/i9SQjfB-oFw)
 
 [Why I read the KJV?](https://www.kjvtoday.com/read-bible-in-king-james-version/)
