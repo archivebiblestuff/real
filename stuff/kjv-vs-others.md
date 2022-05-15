@@ -17,9 +17,9 @@ Heretical Versions:
 <span style="color:red">**(ESV)**</span> 1 Samuel 13:1 - Saul <span style="color:red">**lived**</span> for one year and then became king, and when he had reigned for two years over Israel
 
 
-<span style="color:white">**(KJV)**</span> Mark 10:24 - And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, **how hard is it for them that trust in riches** to enter into the kingdom of God!
+<span style="color:white">**(KJV)**</span> Mark 10:24 - And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, <span style="color:white">**how hard is it for them that trust in riches**</span> to enter into the kingdom of God!
 
-<span style="color:red">**(ESV)**</span> Mark 10:24 - And the disciples were amazed at his words. But Jesus said to them again, "Children, **how difficult it is** to enter the kingdom of God!
+<span style="color:red">**(ESV)**</span> Mark 10:24 - And the disciples were amazed at his words. But Jesus said to them again, "Children, <span style="color:red">**how difficult it is**</span> to enter the kingdom of God!
 
 
 <span style="color:white">**(KJV)**</span> Luke 23:39-43 - And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us. But the other answering rebuked him, saying, Dost thou not fear God, seeing thou art in the same condemnation? And we indeed justly; **for we receive the due reward of our deeds**: but this man hath done nothing amiss. And he said unto Jesus, Lord, remember me when thou comest into thy kingdom. And Jesus said unto him, Verily I say unto thee, Today shalt thou be with me in paradise.
