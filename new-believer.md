@@ -29,7 +29,9 @@ contents and check it off to keep track.
 
 * [KJV vs. Other Versions](https://ifbased.github.io/stuff/kjv-vs-others)
 
-* [Why I read the KJV](http://jesus-is-lord.com/kjvdefns.htm)
+* [Why I read the KJV](https://www.kjvtoday.com/read-bible-in-king-james-version/)
+
+* [Why KJV?](/stuff/why-kjv.md)
 
 ### 2. Find a Local Church
  [How to choose the right church](https://www.youtube.com/watch?v=FRVIuJucOn4) (Learn about Baptists [here](https://www.youtube.com/watch?v=VAM_POZEeO8))
@@ -76,4 +78,4 @@ every creature_
 
 #### Basics
  
- # COMING SOON!
+# COMING SOON!
