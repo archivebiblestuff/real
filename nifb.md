@@ -1,21 +1,30 @@
 ---
 layout: default
 title: NIFB links
-description: List of NIFB Churches links
+description: List of NIFB Churches links and location.
 ---
 
-## FaithFul Word 
+## Faithful Word 
+
 * [Youtube](https://www.youtube.com/channel/UCTHjnBAQbLX8r1QRsgPOBDQ)
 
 * [Website](http://www.faithfulwordbaptist.org/)
+
+* Email: faithfulword1@gmail.com
 
 ## Verity
 * [Youtube](https://www.youtube.com/c/VerityBaptistChurch)
 
 * [Website](https://veritybaptist.com/)
 
+* Email: info@veritybaptist.com
+
 ## Stedfast 
 * [Youtube](https://www.youtube.com/channel/UCXNJ6pOt6KFMnovAvGTzA1Q)
+ 
+* [Website](http://www.stedfastbaptistkjv.org/)
+
+* Email: stedfastbaptistfortworth@gmail.com%20
 
 ## Sure Foundation
 * [Youtube](https://www.youtube.com/c/SureFoundationBaptistChurchVancouver)
@@ -33,8 +42,17 @@ description: List of NIFB Churches links
 ## Mountain
 * [Youtube](https://m.youtube.com/c/MountainBaptist)
 
+# Old Path Baptist Church
+* [Website](http://www.oldpathtxb.church/)
+* Email: oldpathtxb@gmail.com
+### Find a Church
+* [MilitaryGetSaved](https://militarygetsaved.tripod.com/findchurch.html)
+* [KJV Churches/](https://www.kjvchurches.com/)
 
-# Websites
+---
+
+# Sermon Websites
+
 * [ALLthePreaching](https://allthepreaching.com/)
 * [Banned Preaching](https://bannedpreaching.com/)
 * [PSA Sermons](https://pastorandersonsermons.allthepreaching.com/dev/index.php)
