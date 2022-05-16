@@ -107,3 +107,4 @@ Omits 'Christ is come in the flesh'
 # NKJV
 
 # Others
+literally everything aside from the KJV
