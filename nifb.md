@@ -58,6 +58,8 @@ description: List of NIFB Churches links and location.
 * [Website](http://www.allscripturebaptist.com/)
 * Email: allscripturebaptist@gmail.com
 
+---
+
 ### Find a Church
 * [MilitaryGetSaved](https://militarygetsaved.tripod.com/findchurch.html)
 * [KJV Churches/](https://www.kjvchurches.com/)
