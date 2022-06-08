@@ -12,16 +12,10 @@ description: Fellowship with other Christians online!
 
 * [Ecclesia](https://discord.gg/V6tdRS5hTG)
 
-* [Baptist Clubhouse](https://discord.gg/Yd5sTB598H)
-
 * [Saved Bible Reading Club](https://discord.gg/VX9K2Qg9eS)
 
 * [Bible Study Server](https://discord.gg/cHqrm2pK)
 
-* [Real Baptists Server](https://discord.gg/XqF3Ky2RuP)
 
-* [Fellowship Family](https://discord.gg/2HhUv8BG8v)
-
-## Other Communicating
-
-Probably none
+### Note
+Don't join other "Christian servers" aside from the ones listed here. You might be led astray by false prophets. 99% of those who brands themselves holy, christian, biblical, etc etc are most likely heretical.
