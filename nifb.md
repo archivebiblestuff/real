@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NIFB links
-description: List of NIFB Churches links and location.
+description: List of NIFB Churches links and stuff.
 ---
 
 ## Faithful Word 
