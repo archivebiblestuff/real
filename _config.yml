@@ -9,3 +9,4 @@ color:
 logo_url: 
 gems:
 - jekyll-seo-tag
+theme: jekyll-theme-cayman-blog
