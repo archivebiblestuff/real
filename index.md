@@ -3,11 +3,24 @@ layout: default
 ---
 # The Bible Way to Heaven
 
-## <span style="color:red">Sin</span>
-As it is written, There is none righteous, no, not one:
+<details>
+#  <summary><span style="color:red">Sin</span></summary>
+  
+#### Romans 3:10
+> As it is written, There is none righteous, no, not one:
+#### Romans 3:23
+> For all have sinned, and come short of the glory of God;
+#### Ecclesiastes 7:20
+> For there is not a just man upon earth, that doeth good, and sinneth not.
 
-TEST 
-<blockquote class="mb-2 mt-2 w-full p-6 not-italic sm:px-7 sm:py-4 border-sky-500 dark:border-sky-500 bg-gray-200 dark:bg-gray-700"><p class="mb-2 mt-0">For thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee.</p><cite class="flex items-center"><div class="flex flex-col items-start"><span class="mb-1 text-sm font-bold not-italic"><a href="https://www.kingjamesbibleonline.org/Psalms-5-4/" target="_blank" rel="noopener noreferrer">Psalm 5:4</a></span></div></cite></blockquote>
+
+
+
+</details>
+
+
+
+
 
 
 God bless you and have a great day.
